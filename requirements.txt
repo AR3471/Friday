@@ -1,0 +1,6 @@
+faster-whisper
+SpeechRecognition
+pyaudio
+aiohttp
+# Note: Piper TTS is typically installed as a standalone executable or via pip depending on the OS, we'll use the pip wrapper for now.
+piper-tts
